@@ -1,7 +1,7 @@
 # Hi there, I'm Avtesh
 - Always looking to collaborate and create<br>
-- Finishing my education at the University of California, Santa Cruz<br>
-- Feel free to reach me via my socials below<br>
+- Just finished my education at the University of California, Santa Cruz<br>
+- Feel free to reach out via my socials below<br>
 > [!NOTE]  
 > Past project work may not be fully reflected in the contribution history.
 
