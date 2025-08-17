@@ -1,6 +1,6 @@
 # Hi there, I'm Avtesh
 - Always looking to collaborate and create<br>
-- Just finished my education at the University of California, Santa Cruz<br>
+- Currently building core services for Amazon EC2<br>
 - Feel free to reach out via my socials below<br>
 > [!NOTE]  
 > Past project work may not be fully reflected in the contribution history.
